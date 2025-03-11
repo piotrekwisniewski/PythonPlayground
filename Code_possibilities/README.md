@@ -52,5 +52,4 @@ Feel free to suggest improvements or enhancements.
 ## License
 ---
 
-This project is licensed under the MIT License.
 
